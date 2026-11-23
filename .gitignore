@@ -1,0 +1,5 @@
+# исходные данные (~23 МБ) скачиваются функцией tf.download_dataset
+data/raw/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
